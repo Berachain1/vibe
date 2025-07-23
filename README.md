@@ -1,4 +1,4 @@
-# 🚀 CRYPTAL Auto Daily Task Script
+# 🚀 CRYPTAL Auto Daily Task 
 
 Script ini dibuat untuk menjalankan tugas harian otomatis di [https://cryptal.ai/sign-up?ref=8JG95AK1HG](https://cryptal.ai/sign-up?ref=8JG95AK1HG), dengan dukungan hingga **50 juta akun** secara efisien dan cepat.
 
@@ -8,12 +8,22 @@ Ikuti langkah-langkah berikut untuk menjalankan script:
 
 ```bash
 git clone https://github.com/Berachain1/vibe.git
+```
+
+```bash
 cd vibe
+```
 
+```bash
 npm install
+```
 
-nano tokenku.txt   # Tempelkan token di sini
+```bash
+nano tokenku.txt
+# Paste your token here
+```
 
+```bash
 npm start
 ```
 
@@ -61,12 +71,22 @@ Follow these steps to get started:
 
 ```bash
 git clone https://github.com/Berachain1/vibe.git
+```
+
+```bash
 cd vibe
+```
 
+```bash
 npm install
+```
 
-nano tokenku.txt   # Paste your token here
+```bash
+nano tokenku.txt
+# Paste your token here
+```
 
+```bash
 npm start
 ```
 
